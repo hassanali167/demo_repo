@@ -9,7 +9,6 @@ import requests
 load_dotenv()
 
 
-
 # API Keys
 API_KEYS = [
     os.getenv("API_KEY_GEN_1"),
